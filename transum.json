@@ -1,0 +1,1028 @@
+[
+    {
+        "name": "Stasiun Gambir",
+        "latitude": -6.176565099999999,
+        "longitude": 106.8305901,
+        "type": "Kereta Api Jarak Jauh"
+    },
+    {
+        "name": "MRT Jakarta Lebak Bulus",
+        "latitude": -6.2893004,
+        "longitude": 106.7757068,
+        "type": "MRT"
+    },
+    {
+        "name": "Stasiun Kereta Cepat Halim",
+        "latitude": -6.245719999999999,
+        "longitude": 106.88424,
+        "type": "Kereta Cepat"
+    },
+    {
+        "name": "Stasiun Bogor",
+        "latitude": -6.595579799999999,
+        "longitude": 106.7904324,
+        "type": "Kereta Api Jarak Jauh"
+    },
+    {
+        "name": "Stasiun Surabaya Gubeng",
+        "latitude": -7.2653373,
+        "longitude": 112.7526856,
+        "type": "Kereta Api Jarak Jauh"
+    },
+    {
+        "name": "Stasiun Semarang Tawang",
+        "latitude": -6.9644116,
+        "longitude": 110.4279082,
+        "type": "Kereta Api Jarak Jauh"
+    },
+    {
+        "name": "Stasiun Bandung",
+        "latitude": -6.914646599999999,
+        "longitude": 107.6024376,
+        "type": "Kereta Api Jarak Jauh"
+    },
+    {
+        "name": "Stasiun Yogyakarta",
+        "latitude": -7.789255099999999, 
+        "longitude": 110.3634629,
+        "type": "Kereta Api Jarak Jauh"
+    },
+    {
+        "name": "Bandara Internasional Soekarno-Hatta",
+        "latitude": -6.123847800000001,
+        "longitude": 106.6596801,
+        "type": "Bandara"
+    },
+    {
+        "name": "Bandara Internasional Ngurah Rai",
+        "latitude": -8.7469893,
+        "longitude": 115.1668065,
+        "type": "Bandara"
+    },
+    {
+        "name": "Bandara Internasional Juanda",
+        "latitude": -7.379322,
+        "longitude": 112.786317,
+        "type": "Bandara"
+    },
+    {
+        "name": "Pelabuhan Tanjung Priok",
+        "latitude": -6.118639,
+        "longitude": 106.900817,
+        "type": "Pelabuhan"
+    },
+    {
+        "name": "Pelabuhan Tanjung Perak",
+        "latitude": -7.216944,
+        "longitude": 112.744167,
+        "type": "Pelabuhan"
+    },
+    {
+        "name": "Pelabuhan Belawan",
+        "latitude": 3.762931,
+        "longitude": 98.683315,
+        "type": "Pelabuhan"
+    },
+    {
+        "name": "Stasiun Pasar Turi",
+        "latitude": -7.234111,
+        "longitude": 112.735437,
+        "type": "Kereta Api Jarak Jauh"
+    },
+    {
+        "name": "Stasiun Malang Kota Baru",
+        "latitude": -7.981354,
+        "longitude": 112.635586,
+        "type": "Kereta Api Jarak Jauh"
+    },
+    {
+        "name": "Stasiun Medan",
+        "latitude": 3.590070,
+        "longitude": 98.668118,
+        "type": "Kereta Api Jarak Jauh"
+    },
+    {
+        "name": "Stasiun Pekanbaru",
+        "latitude": 0.515938,
+        "longitude": 101.439171,
+        "type": "Kereta Api Jarak Jauh"
+    },
+    {
+        "name": "Stasiun Kertapati",
+        "latitude": -3.0166041,
+        "longitude": 104.7516018,
+        "type": "Kereta Api Jarak Jauh"
+    },
+    {
+        "name": "Stasiun Makassar",
+        "latitude": -5.148497,
+        "longitude": 119.432499,
+        "type": "Kereta Api Jarak Jauh"
+    },
+    {
+        "name": "Stasiun Batu Ceper",
+        "latitude": -6.169366,
+        "longitude": 106.617374,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Cikarang",
+        "latitude": -6.255156,
+        "longitude": 107.148708,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Parung Panjang",
+        "latitude": -6.402656,
+        "longitude": 106.711781,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Tanah Abang",
+        "latitude": -6.210833,
+        "longitude": 106.802778,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Sudirman",
+        "latitude": -6.209038,
+        "longitude": 106.818789,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Bojong Gede",
+        "latitude": -6.463004,
+        "longitude": 106.861098,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Rangkasbitung",
+        "latitude": -6.353214,
+        "longitude": 106.248207,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Cirebon",
+        "latitude": -6.714315,
+        "longitude": 108.562246,
+        "type": "Kereta Api Jarak Jauh"
+    },
+    {
+        "name": "Stasiun Kutoarjo",
+        "latitude": -7.716730,
+        "longitude": 109.903287,
+        "type": "Kereta Api Jarak Jauh"
+    },
+    {
+        "name": "Stasiun Purwokerto",
+        "latitude": -7.421786,
+        "longitude": 109.235631,
+        "type": "Kereta Api Jarak Jauh"
+    },
+    {
+        "name": "Stasiun Tanjung Karang",
+        "latitude": -5.4089108,
+        "longitude": 105.2599265,
+        "type": "Kereta Api Jarak Jauh"
+    },
+    {
+        "name": "Stasiun Serpong",
+        "latitude": -6.304202,
+        "longitude": 106.639427,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Cisauk",
+        "latitude": -6.285732,
+        "longitude": 106.547625,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Cilebut",
+        "latitude": -6.568129,
+        "longitude": 106.836944,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Duri",
+        "latitude": -6.157371,
+        "longitude": 106.803666,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Kebayoran",
+        "latitude": -6.242754,
+        "longitude": 106.789071,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Manggarai",
+        "latitude": -6.200576,
+        "longitude": 106.850734,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Tanjung Barat",
+        "latitude": -6.305969,
+        "longitude": 106.796463,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Palmerah",
+        "latitude": -6.196468,
+        "longitude": 106.797139,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Karet",
+        "latitude": -6.212194,
+        "longitude": 106.821667,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Sudimara",
+        "latitude": -6.302541,
+        "longitude": 106.717666,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Pondok Ranji",
+        "latitude": -6.338627,
+        "longitude": 106.753953,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Jurangmangu",
+        "latitude": -6.345606,
+        "longitude": 106.796444,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Bojong Indah",
+        "latitude": -6.370291,
+        "longitude": 106.820002,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Cakung",
+        "latitude": -6.203264,
+        "longitude": 106.940993,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Kranji",
+        "latitude": -6.146999,
+        "longitude": 106.740562,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Lebak Bulus",
+        "latitude": -6.290699,
+        "longitude": 106.781371,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Depok",
+        "latitude": -6.405606,
+        "longitude": 106.818210,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Tanjung Priuk",
+        "latitude": -6.126529,
+        "longitude": 106.900066,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Tanjung Barat",
+        "latitude": -6.306253,
+        "longitude": 106.795087,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Cawang",
+        "latitude": -6.250296,
+        "longitude": 106.856850,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Ciledug",
+        "latitude": -6.232442,
+        "longitude": 106.746018,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Maja",
+        "latitude": -6.539249,
+        "longitude": 106.556258,
+        "type": "Kereta ApiKomuter"
+    },
+    {
+        "name": "Stasiun Ciganea",
+        "latitude": -6.645366,
+        "longitude": 106.571436,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Merak",
+        "latitude": -5.999977,
+        "longitude": 106.040672,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Tambun",
+        "latitude": -6.252868,
+        "longitude": 107.109740,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Cibitung",
+        "latitude": -6.315835,
+        "longitude": 107.095588,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun West Cikarang",
+        "latitude": -6.305936,
+        "longitude": 107.093228,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Jatinegara",
+        "latitude": -6.220065,
+        "longitude": 106.885259,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Pasar Minggu",
+        "latitude": -6.286291,
+        "longitude": 106.835133,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Tebet",
+        "latitude": -6.225660,
+        "longitude": 106.842983,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Lenteng Agung",
+        "latitude": -6.317091,
+        "longitude": 106.838585,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Universitas Indonesia",
+        "latitude": -6.360768,
+        "longitude": 106.831668,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Pondok Cina",
+        "latitude": -6.368973,
+        "longitude": 106.831980,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Citayam",
+        "latitude": -6.452251,
+        "longitude": 106.821014,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Nambo",
+        "latitude": -6.481111,
+        "longitude": 106.910833,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Cibinong",
+        "latitude": -6.482778,
+        "longitude": 106.851389,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Pondok Rajeg",
+        "latitude": -6.462500,
+        "longitude": 106.867222,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Parung Panjang",
+        "latitude": -6.401944,
+        "longitude": 106.711944,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Tenjo",
+        "latitude": -6.429444,
+        "longitude": 106.536389,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Daru",
+        "latitude": -6.391667,
+        "longitude": 106.620833,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Cikini",
+        "latitude": -6.198056,
+        "longitude": 106.840833,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Gondangdia",
+        "latitude": -6.186667,
+        "longitude": 106.834444,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Juanda",
+        "latitude": -6.171389,
+        "longitude": 106.832222,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Sawah Besar",
+        "latitude": -6.163611,
+        "longitude": 106.832222,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Mangga Besar",
+        "latitude": -6.157222,
+        "longitude": 106.826944,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Jayakarta",
+        "latitude": -6.150000,
+        "longitude": 106.822222,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Kampung Bandan",
+        "latitude": -6.139722,
+        "longitude": 106.826389,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Ancol",
+        "latitude": -6.127778,
+        "longitude": 106.846111,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Kemayoran",
+        "latitude": -6.153611,
+        "longitude": 106.850833,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Rajawali",
+        "latitude": -6.141111,
+        "longitude": 106.847778,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Cakung",
+        "latitude": -6.203264,
+        "longitude": 106.940993,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Klender",
+        "latitude": -6.211111,
+        "longitude": 106.912222,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Buaran",
+        "latitude": -6.216667,
+        "longitude": 106.903611,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Klender Baru",
+        "latitude": -6.222222,
+        "longitude": 106.892778,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Pondok Jati",
+        "latitude": -6.206389,
+        "longitude": 106.865556,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Cipinang",
+        "latitude": -6.217222,
+        "longitude": 106.891111,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Pasar Senen",
+        "latitude": -6.173889,
+        "longitude": 106.848056,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Karet",
+        "latitude": -6.212194,
+        "longitude": 106.821667,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Kampung Bandan",
+        "latitude": -6.139722,
+        "longitude": 106.826389,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Ancol",
+        "latitude": -6.127778,
+        "longitude": 106.846111,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Kemayoran",
+        "latitude": -6.153611,
+        "longitude": 106.850833,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Rajawali",
+        "latitude": -6.141111,
+        "longitude": 106.847778,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Cakung",
+        "latitude": -6.203264,
+        "longitude": 106.940993,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Klender",
+        "latitude": -6.211111,
+        "longitude": 106.912222,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Buaran",
+        "latitude": -6.216667,
+        "longitude": 106.903611,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Klender Baru",
+        "latitude": -6.222222,
+        "longitude": 106.892778,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Pondok Jati",
+        "latitude": -6.206389,
+        "longitude": 106.865556,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Cipinang",
+        "latitude": -6.217222,
+        "longitude": 106.891111,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Pasar Senen",
+        "latitude": -6.173889,
+        "longitude": 106.848056,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Karet",
+        "latitude": -6.212194,
+        "longitude": 106.821667,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Tebet",
+        "latitude": -6.225660,
+        "longitude": 106.842983,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Manggarai",
+        "latitude": -6.200576,
+        "longitude": 106.850734,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Sudirman",
+        "latitude": -6.209038,
+        "longitude": 106.818789,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Tanah Abang",
+        "latitude": -6.210833,
+        "longitude": 106.802778,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Duri",
+        "latitude": -6.157371,
+        "longitude": 106.803666,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Angke",
+        "latitude": -6.142778,
+        "longitude": 106.800278,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Kampung Bandan",
+        "latitude": -6.139722,
+        "longitude": 106.826389,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Gondangdia",
+        "latitude": -6.186667,
+        "longitude": 106.834444,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Cikini",
+        "latitude": -6.198056,
+        "longitude": 106.840833,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Mangga Besar",
+        "latitude": -6.157222,
+        "longitude": 106.826944,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Sawah Besar",
+        "latitude": -6.163611,
+        "longitude": 106.832222,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Juanda",
+        "latitude": -6.171389,
+        "longitude": 106.832222,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Jayakarta",
+        "latitude": -6.150000,
+        "longitude": 106.822222,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Kampung Bandan",
+        "latitude": -6.139722,
+        "longitude": 106.826389,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Ancol",
+        "latitude": -6.127778,
+        "longitude": 106.846111,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Kemayoran",
+        "latitude": -6.153611,
+        "longitude": 106.850833,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Rajawali",
+        "latitude": -6.141111,
+        "longitude": 106.847778,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Cakung",
+        "latitude": -6.203264,
+        "longitude": 106.940993,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Klender",
+        "latitude": -6.211111,
+        "longitude": 106.912222,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Buaran",
+        "latitude": -6.216667,
+        "longitude": 106.903611,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Klender Baru",
+        "latitude": -6.222222,
+        "longitude": 106.892778,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Pondok Jati",
+        "latitude": -6.206389,
+        "longitude": 106.865556,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Cipinang",
+        "latitude": -6.217222,
+        "longitude": 106.891111,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Pasar Senen",
+        "latitude": -6.173889,
+        "longitude": 106.848056,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Karet",
+        "latitude": -6.212194,
+        "longitude": 106.821667,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Tebet",
+        "latitude": -6.225660,
+        "longitude": 106.842983,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Manggarai",
+        "latitude": -6.200576,
+        "longitude": 106.850734,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Sudirman",
+        "latitude": -6.209038,
+        "longitude": 106.818789,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Tanah Abang",
+        "latitude": -6.210833,
+        "longitude": 106.802778,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun Duri",
+        "latitude": -6.157371,
+        "longitude": 106.803666,
+        "type": "Kereta Api Komuter"
+    },
+    {
+        "name": "Stasiun MRT Lebak Bulus Grab",
+        "latitude": -6.288853,
+        "longitude": 106.774666,
+        "type": "MRT"
+    },
+    {
+        "name": "Stasiun MRT Fatmawati",
+        "latitude": -6.282573,
+        "longitude": 106.797365,
+        "type": "MRT"
+    },
+    {
+        "name": "Stasiun MRT Cipete Raya",
+        "latitude": -6.267038,
+        "longitude": 106.798446,
+        "type": "MRT"
+    },
+    {
+        "name": "Stasiun MRT Haji Nawi",
+        "latitude": -6.260618,
+        "longitude": 106.798614,
+        "type": "MRT"
+    },
+    {
+        "name": "Stasiun MRT Blok A",
+        "latitude": -6.252603,
+        "longitude": 106.797802,
+        "type": "MRT"
+    },
+    {
+        "name": "Stasiun MRT Blok M",
+        "latitude": -6.243539,
+        "longitude": 106.799844,
+        "type": "MRT"
+    },
+    {
+        "name": "Stasiun MRT ASEAN",
+        "latitude": -6.231323,
+        "longitude": 106.801381,
+        "type": "MRT"
+    },
+    {
+        "name": "Stasiun MRT Senayan",
+        "latitude": -6.224006,
+        "longitude": 106.802079,
+        "type": "MRT"
+    },
+    {
+        "name": "Stasiun MRT Istora Mandiri",
+        "latitude": -6.215869,
+        "longitude": 106.810177,
+        "type": "MRT"
+    },
+    {
+        "name": "Stasiun MRT Bendungan Hilir",
+        "latitude": -6.208457,
+        "longitude": 106.815530,
+        "type": "MRT"
+    },
+    {
+        "name": "Stasiun MRT Setiabudi Astra",
+        "latitude": -6.202949,
+        "longitude": 106.819938,
+        "type": "MRT"
+    },
+    {
+        "name": "Stasiun MRT Dukuh Atas BNI",
+        "latitude": -6.197694,
+        "longitude": 106.823366,
+        "type": "MRT"
+    },
+    {
+        "name": "Stasiun MRT Bundaran HI",
+        "latitude": -6.194837,
+        "longitude": 106.823999,
+        "type": "MRT"
+    },
+    {
+        "name": "Stasiun LRT Pegangsaan Dua",
+        "latitude": -6.146680,
+        "longitude": 106.914473,
+        "type": "LRT"
+    },
+    {
+        "name": "Stasiun LRT Boulevard Utara",
+        "latitude": -6.148710,
+        "longitude": 106.908798,
+        "type": "LRT"
+    },
+    {
+        "name": "Stasiun LRT Boulevard Selatan",
+        "latitude": -6.152849,
+        "longitude": 106.903054,
+        "type": "LRT"
+    },
+    {
+        "name": "Stasiun LRT Pulomas",
+        "latitude": -6.169174,
+        "longitude": 106.890145,
+        "type": "LRT"
+    },
+    {
+        "name": "Stasiun LRT Equestrian",
+        "latitude": -6.172418,
+        "longitude": 106.888051,
+        "type": "LRT"
+    },
+    {
+        "name": "Stasiun LRT Velodrome",
+        "latitude": -6.186440,
+        "longitude": 106.879641,
+        "type": "LRT"
+    },
+    {
+        "name": "Stasiun LRT Pemuda Rawamangun",
+        "latitude": -6.190369,
+        "longitude": 106.875318,
+        "type": "LRT"
+    },
+    {
+        "name": "Stasiun LRT Jatinegara Kaum",
+        "latitude": -6.197162,
+        "longitude": 106.877568,
+        "type": "LRT"
+    },
+    {
+        "name": "Stasiun LRT Klender",
+        "latitude": -6.214967,
+        "longitude": 106.891573,
+        "type": "LRT"
+    },
+    {
+        "name": "Stasiun LRT Cawang",
+        "latitude": -6.234089,
+        "longitude": 106.862801,
+        "type": "LRT"
+    },
+    {
+        "name": "Stasiun LRT Ciliwung",
+        "latitude": -6.255316,
+        "longitude": 106.863519,
+        "type": "LRT"
+    },
+    {
+        "name": "Stasiun LRT Pancoran",
+        "latitude": -6.263669,
+        "longitude": 106.867558,
+        "type": "LRT"
+    },
+    {
+        "name": "Stasiun LRT Kuningan",
+        "latitude": -6.236197,
+        "longitude": 106.832917,
+        "type": "LRT"
+    },
+    {
+        "name": "Stasiun LRT Rasuna Said",
+        "latitude": -6.224527,
+        "longitude": 106.833859,
+        "type": "LRT"
+    },
+    {
+        "name": "Stasiun LRT DJKA",
+        "latitude": -3.031365238868135,
+        "longitude": 104.79011098623987,
+        "type": "LRT"
+    },
+    {
+        "name": "Stasiun LRT Jakabaring",
+        "latitude": -3.023171984528778,
+        "longitude": 104.78466609079138,
+        "type": "LRT"
+    },
+    {
+        "name": "Stasiun LRT Polresta",
+        "latitude": -3.0048687347051706,  
+        "longitude": 104.77238915517117,
+        "type": "LRT"
+    },
+    {
+        "name": "Stasiun LRT Ampera",
+        "latitude": -2.988681344616375,
+        "longitude": 104.76191891586743, 
+        "type": "LRT"
+    },
+    {
+        "name": "Stasiun LRT Cinde",
+        "latitude": -2.980780532589452,
+        "longitude": 104.75616861221576, 
+        "type": "LRT"
+    },
+    {
+        "name": "Stasiun LRT Dishub",
+        "latitude": -2.97840714005386,
+        "longitude": 104.74910366310583,  
+        "type": "LRT"
+    },
+    {
+        "name": "Stasiun LRT Bumi Sriwijaya",
+        "latitude": -2.976945954309503,
+        "longitude": 104.74478027203784,  
+        "type": "LRT"
+    },
+    {
+        "name": "Stasiun LRT Demang",
+        "latitude": -2.9642374382064984,
+        "longitude": 104.7359379133626,  
+        "type": "LRT"
+    },
+    {
+        "name": "Stasiun LRT Garuda Dempo",
+        "latitude": -2.955990938737829, 
+        "longitude": 104.73572204786049,
+        "type": "LRT"
+    },
+    {
+        "name": "Stasiun LRT RSUD",
+        "latitude": -2.947786771583069,
+        "longitude": 104.73254523111704,  
+        "type": "LRT"
+    },
+    {
+        "name": "Stasiun LRT Punti Kayu",
+        "latitude": -2.9403841737075966,
+        "longitude": 104.7237488523245,
+        "type": "LRT"  
+    },
+    {
+        "name": "Stasiun LRT Asrama Haji",
+        "latitude": -2.919182495388942,
+        "longitude": 104.71182910799119, 
+        "type": "LRT"
+    },
+    {
+        "name": "Stasiun LRT Bandara",
+        "latitude": -2.894823,
+        "longitude": 104.698265,
+        "type": "LRT"
+    }
+]
